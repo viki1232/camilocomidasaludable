@@ -27,7 +27,12 @@ iframe {
   body {
     padding: 10px;
   }
-
+    .b {
+        height: auto;
+        font-size: 18px;
+        padding: 10px;
+        flex-direction: column;
+  }
   h1.a {
     font-size: 22px;
   }
